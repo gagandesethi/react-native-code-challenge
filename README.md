@@ -36,3 +36,8 @@ The grading of the app  will be based off of three criteria:
 * **30%** - UI and UX
 * **40%** - Overall Design and Structure
 * **30%** - Data Management and Store
+
+Complete as much as you can in 2 days, 
+we will judge you based on your coding style,
+code cleanliness, code modularity, architectural patterns used, 
+sense of UI / UX
