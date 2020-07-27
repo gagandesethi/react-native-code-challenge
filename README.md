@@ -5,7 +5,7 @@ CityMall is looking for people who can build awesome products, so we created thi
 
 ## Instructions
 #### 1. Build your app
-You have 5 days to complete the challenge.
+You have 2 days to complete the challenge.
 
 *Implementation and design will be evaluated.*
 #### 2. Submit your challenge
